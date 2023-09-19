@@ -1,2 +1,2 @@
-# Rock Paper Scissors Classifier
+## Rock Paper Scissors Classifier
 Pretty self-explanatory
